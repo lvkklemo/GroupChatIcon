@@ -2,8 +2,8 @@
 //  UIImage+Addtions.m
 //  TestGroupIcon
 //
-//  Created by Pill.Gong on 7/9/14.
-//  Copyright (c) 2014 Pill.Gong. All rights reserved.
+//  Created by 宇航 on 16/11/18.
+//  Copyright © 2016年 KH. All rights reserved.
 //
 
 #import "UIImage+Addtions.h"

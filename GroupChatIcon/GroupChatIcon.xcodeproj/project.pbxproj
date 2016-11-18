@@ -13,18 +13,7 @@
 		842CAFEA1DDEB13F00CD448B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842CAFE81DDEB13F00CD448B /* Main.storyboard */; };
 		842CAFEC1DDEB13F00CD448B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842CAFEB1DDEB13F00CD448B /* Assets.xcassets */; };
 		842CAFEF1DDEB13F00CD448B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842CAFED1DDEB13F00CD448B /* LaunchScreen.storyboard */; };
-		842CB0091DDEB17400CD448B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 842CAFF81DDEB17400CD448B /* AppDelegate.m */; };
-		842CB00A1DDEB17400CD448B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 842CAFF91DDEB17400CD448B /* Main.storyboard */; };
-		842CB00B1DDEB17400CD448B /* bg_groupTableBGColor.png in Resources */ = {isa = PBXBuildFile; fileRef = 842CAFFB1DDEB17400CD448B /* bg_groupTableBGColor.png */; };
-		842CB00C1DDEB17400CD448B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 842CAFFC1DDEB17400CD448B /* InfoPlist.strings */; };
-		842CB00D1DDEB17400CD448B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842CAFFE1DDEB17400CD448B /* Images.xcassets */; };
-		842CB00E1DDEB17400CD448B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 842CAFFF1DDEB17400CD448B /* main.m */; };
-		842CB00F1DDEB17400CD448B /* TestGroupIcon-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 842CB0001DDEB17400CD448B /* TestGroupIcon-Info.plist */; };
-		842CB0101DDEB17400CD448B /* UIImage+Addtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 842CB0031DDEB17400CD448B /* UIImage+Addtions.m */; };
-		842CB0111DDEB17400CD448B /* user.png in Resources */ = {isa = PBXBuildFile; fileRef = 842CB0041DDEB17400CD448B /* user.png */; };
-		842CB0121DDEB17400CD448B /* user1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 842CB0051DDEB17400CD448B /* user1.jpg */; };
-		842CB0131DDEB17400CD448B /* user2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 842CB0061DDEB17400CD448B /* user2.jpg */; };
-		842CB0141DDEB17400CD448B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 842CB0081DDEB17400CD448B /* ViewController.m */; };
+		842CB0191DDEB35D00CD448B /* UIImage+Addtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 842CB0181DDEB35D00CD448B /* UIImage+Addtions.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,22 +27,8 @@
 		842CAFEB1DDEB13F00CD448B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		842CAFEE1DDEB13F00CD448B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		842CAFF01DDEB13F00CD448B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		842CAFF71DDEB17400CD448B /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		842CAFF81DDEB17400CD448B /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		842CAFFA1DDEB17400CD448B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		842CAFFB1DDEB17400CD448B /* bg_groupTableBGColor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_groupTableBGColor.png; sourceTree = "<group>"; };
-		842CAFFD1DDEB17400CD448B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		842CAFFE1DDEB17400CD448B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		842CAFFF1DDEB17400CD448B /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		842CB0001DDEB17400CD448B /* TestGroupIcon-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TestGroupIcon-Info.plist"; sourceTree = "<group>"; };
-		842CB0011DDEB17400CD448B /* TestGroupIcon-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TestGroupIcon-Prefix.pch"; sourceTree = "<group>"; };
-		842CB0021DDEB17400CD448B /* UIImage+Addtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Addtions.h"; sourceTree = "<group>"; };
-		842CB0031DDEB17400CD448B /* UIImage+Addtions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Addtions.m"; sourceTree = "<group>"; };
-		842CB0041DDEB17400CD448B /* user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user.png; sourceTree = "<group>"; };
-		842CB0051DDEB17400CD448B /* user1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = user1.jpg; sourceTree = "<group>"; };
-		842CB0061DDEB17400CD448B /* user2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = user2.jpg; sourceTree = "<group>"; };
-		842CB0071DDEB17400CD448B /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		842CB0081DDEB17400CD448B /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		842CB0171DDEB2C000CD448B /* UIImage+Addtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Addtions.h"; sourceTree = "<group>"; };
+		842CB0181DDEB35D00CD448B /* UIImage+Addtions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Addtions.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,7 +61,7 @@
 		842CAFDE1DDEB13F00CD448B /* GroupChatIcon */ = {
 			isa = PBXGroup;
 			children = (
-				842CAFF61DDEB17400CD448B /* TestGroupIcon */,
+				842CB0151DDEB2C000CD448B /* images */,
 				842CAFE21DDEB13F00CD448B /* AppDelegate.h */,
 				842CAFE31DDEB13F00CD448B /* AppDelegate.m */,
 				842CAFE51DDEB13F00CD448B /* ViewController.h */,
@@ -108,27 +83,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		842CAFF61DDEB17400CD448B /* TestGroupIcon */ = {
+		842CB0151DDEB2C000CD448B /* images */ = {
 			isa = PBXGroup;
 			children = (
-				842CAFF71DDEB17400CD448B /* AppDelegate.h */,
-				842CAFF81DDEB17400CD448B /* AppDelegate.m */,
-				842CAFF91DDEB17400CD448B /* Main.storyboard */,
-				842CAFFB1DDEB17400CD448B /* bg_groupTableBGColor.png */,
-				842CAFFC1DDEB17400CD448B /* InfoPlist.strings */,
-				842CAFFE1DDEB17400CD448B /* Images.xcassets */,
-				842CAFFF1DDEB17400CD448B /* main.m */,
-				842CB0001DDEB17400CD448B /* TestGroupIcon-Info.plist */,
-				842CB0011DDEB17400CD448B /* TestGroupIcon-Prefix.pch */,
-				842CB0021DDEB17400CD448B /* UIImage+Addtions.h */,
-				842CB0031DDEB17400CD448B /* UIImage+Addtions.m */,
-				842CB0041DDEB17400CD448B /* user.png */,
-				842CB0051DDEB17400CD448B /* user1.jpg */,
-				842CB0061DDEB17400CD448B /* user2.jpg */,
-				842CB0071DDEB17400CD448B /* ViewController.h */,
-				842CB0081DDEB17400CD448B /* ViewController.m */,
+				842CB0171DDEB2C000CD448B /* UIImage+Addtions.h */,
+				842CB0181DDEB35D00CD448B /* UIImage+Addtions.m */,
 			);
-			path = TestGroupIcon;
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -189,17 +150,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				842CB0121DDEB17400CD448B /* user1.jpg in Resources */,
 				842CAFEF1DDEB13F00CD448B /* LaunchScreen.storyboard in Resources */,
-				842CB0131DDEB17400CD448B /* user2.jpg in Resources */,
-				842CB00F1DDEB17400CD448B /* TestGroupIcon-Info.plist in Resources */,
-				842CB0111DDEB17400CD448B /* user.png in Resources */,
-				842CB00C1DDEB17400CD448B /* InfoPlist.strings in Resources */,
-				842CB00D1DDEB17400CD448B /* Images.xcassets in Resources */,
 				842CAFEC1DDEB13F00CD448B /* Assets.xcassets in Resources */,
-				842CB00B1DDEB17400CD448B /* bg_groupTableBGColor.png in Resources */,
 				842CAFEA1DDEB13F00CD448B /* Main.storyboard in Resources */,
-				842CB00A1DDEB17400CD448B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,13 +163,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				842CB0141DDEB17400CD448B /* ViewController.m in Sources */,
-				842CB00E1DDEB17400CD448B /* main.m in Sources */,
-				842CB0091DDEB17400CD448B /* AppDelegate.m in Sources */,
 				842CAFE71DDEB13F00CD448B /* ViewController.m in Sources */,
-				842CB0101DDEB17400CD448B /* UIImage+Addtions.m in Sources */,
 				842CAFE41DDEB13F00CD448B /* AppDelegate.m in Sources */,
 				842CAFE11DDEB13F00CD448B /* main.m in Sources */,
+				842CB0191DDEB35D00CD448B /* UIImage+Addtions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,22 +187,6 @@
 				842CAFEE1DDEB13F00CD448B /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		842CAFF91DDEB17400CD448B /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				842CAFFA1DDEB17400CD448B /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		842CAFFC1DDEB17400CD448B /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				842CAFFD1DDEB17400CD448B /* en */,
-			);
-			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -389,6 +323,7 @@
 				842CAFF51DDEB13F00CD448B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
